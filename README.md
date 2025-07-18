@@ -20,5 +20,5 @@ Stocks-Dashboard/
  - Streamlit_app.py                  
  - Stock Dashboard.xlsx              
  - requirements.txt                
- - dashboard-preview.png
+ - dashboard-preview.pdf (Contains Images)
  - README.md                        
