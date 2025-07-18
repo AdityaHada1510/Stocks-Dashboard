@@ -17,9 +17,8 @@ An interactive stock market dashboard built with Python, Streamlit, and Plotly t
  📂 Project Structure
 
 Stocks-Dashboard/
-├── Streamlit_app.py                  # 🧠 Main Streamlit application
-├── Stock Dashboard.xlsx              # 📈 Excel file with ticker and historical data
-├── requirements.txt                  # 📦 Python package dependencies
-├── assets/                           # 🖼️ Optional: preview images/screenshots
-│   └── dashboard-preview.png
-└── README.md                         # 📘 Project overview
+ - Streamlit_app.py                  
+ - Stock Dashboard.xlsx              
+ - requirements.txt                
+ - dashboard-preview.png
+ - README.md                        
