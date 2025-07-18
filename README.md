@@ -23,5 +23,6 @@ Stocks-Dashboard/
  - Stocks-Dashboard.pdf (Contains Images)
  - README.md                        
 <img width="1196" height="638" alt="1" src="https://github.com/user-attachments/assets/75c1f1f1-6585-4b46-9f01-927c2d20d305" />
-<img width="1184" height="588" alt="2" src="https://github.com/user-attachments/assets/e22640e2-dccb-420c-9bdc-be80cc4c51b1" />
+<img width="1184" height="213" alt="2" src="https://github.com/user-attachments/assets/38080508-b81f-4084-b066-8810c76ffba2" />
+
 
